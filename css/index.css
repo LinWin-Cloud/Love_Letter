@@ -1,0 +1,40 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img2
+{
+    width: 500px;
+    height: 300px;
+    background-image: url(../img/font.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+p{
+    font-size: 40px;
+    color:rgb(245, 245, 245);
+}
+h1{
+    font-size: 70px;
+    color:rgb(245, 245, 245);
+}
+.text
+{
+    width: 80%;
+    color:rgb(255, 126, 126);
+}
+h3{
+    font-size: 50px;
+    color:rgb(255, 126, 126);
+}
+.img
+{
+    border-radius: 1000px;
+    background-color: white;
+    border: none;
+}
