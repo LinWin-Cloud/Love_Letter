@@ -10,3 +10,6 @@ and sned to other.
 
 You can change the image in the project,you also can change code
 and more nice.
+
+# 内容
+图片和一些文字是可以随时更换的，或者你前端不错，还可以改前端的代码JavaScript，这样可以有更好的体验。
